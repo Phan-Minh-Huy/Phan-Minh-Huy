@@ -1,4 +1,4 @@
-
+<h1 align="center">Hi 👋, I'm Huy</h1>
 <div align="center">
   <h3> 🚀 Aspiring Full-stack Developer | UI/UX Enthusiast </h3>
   <p> 🎓 2nd Year Computing Student at <b>University of Greenwich</b> </p>
