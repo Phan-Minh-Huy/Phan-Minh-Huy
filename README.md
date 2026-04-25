@@ -54,7 +54,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/minh-huy-phan-81256a322/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E4CFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pmhuy0911@gmail.com"><img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@minhhuyphan-z3i" target="_blank"><img src="https://img.shields.io/badge/YouTube-40000A?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@minhhuyphan-z3i" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <p align="center"> 🔥 <i>"Keep learning, keep building, keep evolving."</i> </p>
