@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huy</h1>
-<h3 align="center">🚀 UI/UX Designer & Frontend Developer in progress</h3>
+<h3 align="center">🚀 Full-stack Developer in progress</h3>
 
 <p align="center">
   🎓 Second-year student at University of Greenwich (Vietnam) <br/>
