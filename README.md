@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=0E4CFF,0077B5,00A3FF&height=200&section=header&text=Hi%20I'm%20Huy%20Phan%20👋&fontSize=70&animation=fadeIn" />
-</div>
 
 <div align="center">
   <h3> 🚀 Aspiring Full-stack Developer | UI/UX Enthusiast </h3>
