@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E4CFF&height=200&section=header&text=Hi%20I'm%20Huy%20Phan%20👋&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=0E4CFF,0077B5,00A3FF&height=200&section=header&text=Hi%20I'm%20Huy%20Phan%20👋&fontSize=70&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -8,9 +8,9 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GPA-3.4%2F4.0-success?style=flat-square&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Top_3_Academic_Ranking-Summer_2025-gold?style=flat-square" />
-  <img src="https://img.shields.io/badge/PROMPATHON_2025-3rd_Place-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/GPA-3.4%2F4.0-0E4CFF?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Top_3_Academic-Summer_2025-0077B5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PROMPATHON-3rd_Place-00A3FF?style=for-the-badge" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 🔭 Currently developing **Veri (Verify The Truth)** - An AI-powered solution to help teenagers detect deepfakes and fake news.
 - 🏆 Achievements: Awarded **3rd Place at PROMPATHON 2025** and ranked in the **Top 3 Students** for the Summer 2025 semester.
 - 🎯 Goal: Crafting seamless user experiences through clean code and intuitive design.
-- 🥋 Fun fact: I practice **Vovinam** (Vietnamese Martial Arts), which keeps me disciplined and focused.
+- 🥋 Fun fact: I practice **Vovinam**, which keeps me disciplined and focused.
 
 ---
 
@@ -43,21 +43,21 @@
 
 ### 📊 GitHub Statistics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhhuyphan&show_icons=true&theme=tokyonight&border_color=0E4CFF&title_color=0E4CFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuyphan&layout=compact&theme=tokyonight&border_color=0E4CFF&title_color=0E4CFF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhhuyphan&show_icons=true&theme=tokyonight&border_color=0E4CFF&title_color=0E4CFF&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuyphan&layout=compact&theme=tokyonight&border_color=0E4CFF&title_color=0E4CFF&bg_color=0D1117" />
 </div>
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuyphan&theme=tokyonight&ring=0E4CFF&fire=0E4CFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuyphan&theme=tokyonight&ring=0E4CFF&fire=0E4CFF&stroke=0E4CFF" />
 </p>
 
 ---
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/minh-huy-phan-81256a322/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pmhuy0911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@minhhuyphan-z3i" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/minh-huy-phan-81256a322/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0E4CFF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pmhuy0911@gmail.com"><img src="https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@minhhuyphan-z3i" target="_blank"><img src="https://img.shields.io/badge/YouTube-00A3FF?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 <p align="center"> 🔥 <i>"Keep learning, keep building, keep evolving."</i> </p>
