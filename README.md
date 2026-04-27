@@ -28,19 +28,22 @@
 <br/>
 <br/>
 
+<br/>
+
 ### 📊 GitHub Statistics
 <div align="center">
   <table border="0">
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhhuyphan&show_icons=true&theme=tokyonight&border_color=0E4CFF&title_color=0E4CFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhhuyphan&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuyphan&layout=compact&theme=tokyonight&border_color=0E4CFF&title_color=0E4CFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />      </td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuyphan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+      </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuyphan&theme=tokyonight&ring=0E4CFF&fire=0E4CFF&stroke=0E4CFF&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuyphan&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
