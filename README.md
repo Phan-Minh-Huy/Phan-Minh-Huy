@@ -36,8 +36,7 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhhuyphan&show_icons=true&theme=tokyonight&border_color=0E4CFF&title_color=0E4CFF&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhhuyphan&theme=tokyonight&bg_color=0D1117&color=0E4CFF&line=0E4CFF&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-      </td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuyphan&layout=compact&theme=tokyonight&border_color=0E4CFF&title_color=0E4CFF&bg_color=0D1117&hide_border=true" alt="Top Languages" />      </td>
     </tr>
   </table>
   
