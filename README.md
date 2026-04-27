@@ -16,9 +16,7 @@
 ### 🧠 About Me
 * 🏆 **Achievements:** Awarded **3rd Place at PROMPATHON 2025** and ranked in the **Top 3 Students** for the Summer 2025 semester.
 * ⚽ **Hobbies:** I play **football**, which keeps me disciplined and focused also connect with my friends.
-
 <br/>
-
 ### 🛠️ Tech Stack & Tools
 <div align="center">
   <a href="https://skillicons.dev">
@@ -26,10 +24,8 @@
   </a>
 </div>  </a>
 </div>
-
 <br/>
 <br/>
-
 ### 📊 GitHub Statistics
 <div align="center">
   <table border="0">
