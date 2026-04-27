@@ -30,15 +30,6 @@
 </div>
 
 <br/>
-
-### 🚀 Featured Projects
-| 📂 Project | 📝 Description | 💻 Tech Stack |
-| :--- | :--- | :--- |
-| 📱 **Verify The Truth (Veri)** | Mobile UI & Logic for an AI content verification app. | `Figma`, `AI`, `UI/UX` |
-| 🎬 **Movie Hub** | A responsive web application for browsing and managing movie data. | `PHP`, `MySQL`, `JavaScript` |
-| 📊 **Admin Dashboard** | Modern UI kit for data visualization and management. | `Figma`, `HTML`, `CSS` |
-| 🌍 **Gemini Explorer** | Research project on the societal impact of screen addiction. | `Research`, `Design` |
-
 <br/>
 
 ### 📊 GitHub Statistics
