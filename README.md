@@ -50,44 +50,6 @@
 
 <br/>
 
-### 🏆 Earned Achievements
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="200">
-        <img src="LINK_ANH_YOLO" width="100" alt="YOLO" />
-        <br/>
-        <b>YOLO</b>
-      </td>
-      <td align="center" width="200">
-        <img src="LINK_ANH_QUICKDRAW" width="100" alt="Quickdraw" />
-        <br/>
-        <b>Quickdraw</b>
-      </td>
-      <td align="center" width="200">
-        <img src="LINK_ANH_STARSTRUCK" width="100" alt="Starstruck" />
-        <br/>
-        <b>Starstruck</b> <code>x2</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="200">
-        <img src="LINK_ANH_PULL_SHARK" width="100" alt="Pull Shark" />
-        <br/>
-        <b>Pull Shark</b> <code>x2</code>
-      </td>
-      <td align="center" width="200">
-        <img src="LINK_ANH_ARCTIC" width="100" alt="Arctic Code Vault" />
-        <br/>
-        <b>Arctic Code Vault<br/>Contributor</b>
-      </td>
-      <td width="200"></td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 ### 🌐 Connect with me
 <div align="center">
   <a href="https://www.linkedin.com/in/minh-huy-phan-81256a322/" target="_blank">
