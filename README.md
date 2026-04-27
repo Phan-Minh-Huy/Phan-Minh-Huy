@@ -17,7 +17,7 @@
 * 🔭 Currently developing **Veri (Verify The Truth)** - An AI-powered solution to help teenagers detect deepfakes and fake news.
 * 🏆 **Achievements:** Awarded **3rd Place at PROMPATHON 2025** and ranked in the **Top 3 Students** for the Summer 2025 semester.
 * 🎯 **Goal:** Crafting seamless user experiences through clean code and intuitive design.
-* 🥋 **Fun fact:** I practice **Vovinam**, which keeps me disciplined and focused.
+* 🥋 **Hobbies:** I play **football**, which keeps me disciplined and focused also connect with my friends.
 
 <br/>
 
