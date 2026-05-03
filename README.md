@@ -37,11 +37,31 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Phan-Minh-Huy&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  ### 📊 GitHub Comprehensive Statistics
+<div align="center">
+  <table border="0">
+    <tr>
+      <!-- Ô trên cùng bên trái: Thống kê tổng quan -->
+      <td align="center">
+        <img width="400" src="profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+      </td>
+      <!-- Ô trên cùng bên phải: Ngôn ngữ lập trình -->
+      <td align="center">
+        <img width="400" src="profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos Per Language" />
+      </td>
+    </tr>
+    <tr>
+      <!-- Ô dưới cùng bên trái: Biểu đồ thời gian code -->
+      <td align="center">
+        <img width="400" src="profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
+      </td>
+      <!-- Ô dưới cùng bên phải: Ngôn ngữ được commit nhiều nhất -->
+      <td align="center">
+        <img width="400" src="profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
+      </td>
+    </tr>
+  </table>
+</div>
 </div>
 
 ### 🌐 Connect with me
