@@ -32,7 +32,7 @@
 
 ### 📊 GitHub Statistics
 <div align="center">  
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phan-Minh-Huy&theme=github-dark-blue&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Phan-Minh-Huy&theme=github-dark-blue&hide_border=true&mode=daily" alt="GitHub Streak" /></a>
 </div>
 
 ### 🌐 Connect with me
