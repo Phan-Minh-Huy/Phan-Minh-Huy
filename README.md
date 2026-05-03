@@ -43,7 +43,7 @@
   <a href="https://www.linkedin.com/in/minh-huy-phan-81256a322/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0E4CFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pmhuy0911@gmail.com" target="blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pmhuy0911@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.youtube.com/@minhhuyphan-z3i" target="_blank">
