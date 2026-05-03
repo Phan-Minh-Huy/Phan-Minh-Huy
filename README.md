@@ -16,18 +16,16 @@
 ### 🧠 About Me
 * 🏆 **Achievements:** Awarded **3rd Place at PROMPATHON 2025** and ranked in the **Top 3 Students** for the Summer 2025 semester.
 * ⚽ **Hobbies:** I play **football**, which keeps me disciplined and focused also connect with my friends.
-* ** My Portfolio link** : https://minhhuyportfolios.netlify.app/
+* 🌐 **My Portfolio:** <a href="https://minhhuyportfolios.netlify.app/" target="_blank">minhhuyportfolios.netlify.app</a>
+
 <br/>
 
 ### 🛠️ Tech Stack & Tools
 <div align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,java,figma,ps,github,vscode&theme=dark&perline=12" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,java,figma,ps,github,vscode&theme=dark&perline=12" alt="Tech Stack" />
   </a>
-</div>  </a>
 </div>
-<br/>
-<br/>
 
 <br/>
 
@@ -46,6 +44,8 @@
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuyphan&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br/>
 
 ### 🌐 Connect with me
 <div align="center">
