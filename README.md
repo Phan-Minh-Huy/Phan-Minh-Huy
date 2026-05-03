@@ -36,18 +36,16 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhhuyphan&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minhhuyphan&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuyphan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhhuyphan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuyphan&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuyphan&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<br/>
 
 ### 🌐 Connect with me
 <div align="center">
