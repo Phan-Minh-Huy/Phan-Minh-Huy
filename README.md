@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Statistics
 <div align="center">  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuyphan&bg_color=0D1117&ring=0E4CFF&fire=0E4CFF&stroke=0E4CFF&currStreakNum=0E4CFF&sideNums=0E4CFF&currStreakLabel=A6C8FF&sideLabels=A6C8FF&dates=A6C8FF&hide_border=true" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhhuyphan&theme=blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ### 🌐 Connect with me
