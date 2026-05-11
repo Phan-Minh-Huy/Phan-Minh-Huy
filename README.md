@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E4CFF&height=250&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Huy&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="Header Image" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Header Image" />
 
   <h3>🚀 Aspiring Full-stack Developer</h3>
   <p>🎓 2nd Year Computing Student at <b>University of Greenwich</b></p>
