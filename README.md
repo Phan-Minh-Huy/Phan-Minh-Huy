@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,java,figma,ps,github,vscode&theme=dark&perline=12" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,java,figma,ps,github,vscode,node&theme=dark&perline=12" alt="Tech Stack" />
   </a>
 </div>
 
