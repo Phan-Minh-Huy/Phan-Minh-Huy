@@ -52,7 +52,7 @@
   <a href="https://discord.com/invite/w7qQBXbn" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   <a href="https://www.reddit.com/user/Huyoksirdu/" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-5865F2?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
 </div>
 
