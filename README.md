@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Header Image" />
 
-  <h3>🚀 Aspiring Full-stack Developer</h3>
-  <p>🎓 2nd Year Computing Student at <b>University of Greenwich</b></p>
+  <h3> Aspiring Web Developer</h3>
+  <p> 2nd Year Computing Student at <b>University of Greenwich</b></p>
 
   <p>
     <img src="https://img.shields.io/badge/GPA-3.4%2F4.0-A40000?style=for-the-badge&logo=google-scholar&logoColor=white" alt="GPA" />
