@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
     <a href="https://ko-fi.com/minhhuyphan1888" target="_blank">
-    <img src="https://img.shields.io/badge/kofi-72A5F2?style=for-the-badge&logo=kofi&logoColor=white" alt="Kofi" />
+    <img src="https://img.shields.io/badge/kofi-FFD96E?style=for-the-badge&logo=kofi&logoColor=black" alt="Kofi" />
   </a>
 </div>
 
