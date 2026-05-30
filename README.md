@@ -61,6 +61,9 @@
     <a href="https://www.facebook.com/minhhhuyy.phann.1/" target="_blank">
     <img src="https://img.shields.io/badge/facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+   <a href="https://www.instagram.com/minhhyyuu/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-c1558b?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </div>
 
 <br/>
