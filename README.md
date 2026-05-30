@@ -59,7 +59,7 @@
   </a>
      </a>
     <a href="https://ko-fi.com/minhhuyphan1888" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-FFD96E?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook" />
+    <img src="https://img.shields.io/badge/facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook" />
   </a>
 </div>
 
