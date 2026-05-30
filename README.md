@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GPA-3.4%2F4.0-A40000?style=for-the-badge&logo=google-scholar&logoColor=white" alt="GPA" />
     <img src="https://img.shields.io/badge/Top_3_Academic-Summer_2025-0E4CFF?style=for-the-badge&logo=trophy&logoColor=white" alt="Top 3 Academic" />
     <img src="https://img.shields.io/badge/PROMPATHON-3rd_Place-F6BE00?style=for-the-badge&logo=award&logoColor=white" alt="Prompathon" />
-    <img src="https://img.shields.io/badge/PROMPATHON-3rd_Place-F6BE00?style=for-the-badge&logo=award&logoColor=white" alt="Prompathon" />
+    <img src="https://img.shields.io/badge/Project-GlobalSync-2D5128?style=for-the-badge&logo=award&logoColor=white" alt="Prompathon" />
   </p>
 </div>
 
