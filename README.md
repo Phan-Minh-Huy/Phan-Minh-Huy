@@ -57,6 +57,10 @@
     <a href="https://ko-fi.com/minhhuyphan1888" target="_blank">
     <img src="https://img.shields.io/badge/kofi-FFD96E?style=for-the-badge&logo=kofi&logoColor=black" alt="Kofi" />
   </a>
+     </a>
+    <a href="https://ko-fi.com/minhhuyphan1888" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-FFD96E?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook" />
+  </a>
 </div>
 
 <br/>
